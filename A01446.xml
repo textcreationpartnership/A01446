@@ -131,9 +131,12 @@
             <p>Written by the Right Hono<g ref="char:EOLhyphen"/>rable <hi>Francis</hi> Lord <hi>Veru<g ref="char:EOLhyphen"/>lam, Viscount S.</hi> Alban.</p>
             <p>LONDON:</p>
             <p>Printed by <hi>I. Okes,</hi> for <hi>Hum<g ref="char:EOLhyphen"/>phrey Mosley,</hi> at the Princes Armes in Pauls Church<g ref="char:EOLhyphen"/>Yard. 1638.</p>
-            <figure>
-               <head>Academiae Cantabrigiensis Liber.</head>
-            </figure>
+            <p>
+               <pb n="verso" facs="tcp:608:2"/>
+               <figure>
+                  <head>Academiae Cantabrigiensis Liber.</head>
+               </figure>
+            </p>
          </div>
          <div type="dedication">
             <pb facs="tcp:608:2"/>
